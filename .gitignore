@@ -1,0 +1,8 @@
+.DS_Store
+
+#DATA
+proteins/
+proteins_2.5anstrom/
+proteins_2angstrom/
+structures.csv
+structures_filtered.csv
